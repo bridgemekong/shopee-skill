@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local credentials & task state — NEVER commit these
+credentials.json
+tasks.json
+.shopee-skill/
